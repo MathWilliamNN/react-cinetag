@@ -1,0 +1,12 @@
+.HeaderLink {
+    color: var(--white);
+    font-family: var(--font-primary);
+    font-size: 18px;
+    font-weight: 400;
+    text-decoration: none;
+    padding: 1em;
+
+    &:hover{
+        color: var(--gray);
+    }
+}   
