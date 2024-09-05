@@ -1,0 +1,10 @@
+.title {
+    color: var(--black);
+    font-family: var(--font-primary);
+    font-size: 18px;
+    font-weight: 600;
+
+    display: flex;
+    justify-content: center;
+    padding: 2.5em;
+}
